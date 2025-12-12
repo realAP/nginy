@@ -1,7 +1,4 @@
 # nginy
-<img height="240px" src="https://media2.giphy.com/media/v1.Y2lkPWZjZGU1NDk1bXhreWR6enk4cGhrMnE0a2Q4c2dudGEzazU3Nzc4aTJ0a2hqd2trNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VXdxFXG1TMVq0/giphy.gif" width="320px" itemtype="http://schema.skype.com/Giphy" key="gif_0">
-a cooler name for nginx with real magic
-
 
 <picture>
   <img width="1408" height="736" alt="image" src="https://github.com/user-attachments/assets/e2a916cb-dc16-4cc1-9948-6954e2530636" alt="NGINY Banner" />
