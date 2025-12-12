@@ -1,7 +1,10 @@
+# nginy
+<img height="240px" src="https://media2.giphy.com/media/v1.Y2lkPWZjZGU1NDk1bXhreWR6enk4cGhrMnE0a2Q4c2dudGEzazU3Nzc4aTJ0a2hqd2trNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VXdxFXG1TMVq0/giphy.gif" width="320px" itemtype="http://schema.skype.com/Giphy" key="gif_0">
+a cooler name for nginx with real magic
+
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9335b488-ffcc-4157-8364-2370a0b70ad0">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3a7eeb08-1133-47f5-859c-fad4f5a6a013">
-  <img alt="NGINX Banner">
+  <img width="1408" height="736" alt="image" src="https://github.com/user-attachments/assets/e2a916cb-dc16-4cc1-9948-6954e2530636" alt="NGINY Banner" />
 </picture>
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
@@ -9,9 +12,9 @@
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](/LICENSE)
 [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](/CODE_OF_CONDUCT.md)
 
-NGINX (pronounced "engine x" or "en-jin-eks") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache.
+NGINY (pronounced "En-Giny" - like "Engine" + "Genie") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache.
 
-NGINX is free and open source software, distributed under the terms of a simplified [2-clause BSD-like license](LICENSE).
+NGINY is free and open source software, distributed under the terms of a simplified [2-clause BSD-like license](LICENSE).
 
 Enterprise distributions, commercial support and training are available from [F5, Inc](https://www.f5.com/products/nginx).
 
